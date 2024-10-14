@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random
 
-# create turtle objects
+# create turtle objects from Turtle and Screen classes
 t = Turtle()
 s = Screen()
 
